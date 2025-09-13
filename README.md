@@ -16,7 +16,7 @@ Follow these steps:
 
 ```sh
 # Step 1: Clone the repository using the project's Git URL.
-git clone <>
+git clone <https://github.com/SatyaSingh88>
 
 # Step 2: Navigate to the project directory.
 cd <StuGrade>
